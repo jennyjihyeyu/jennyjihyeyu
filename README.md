@@ -1,4 +1,4 @@
-## Hi I'm Jenny Yu 👋
+# Hi I'm Jenny Yu 👋
 
 ### Senior majoring in Computer Science and Mathematics with minors in Psychological & Brain Sciences and Linguistics
 
